@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { router } from 'next/router'
+import router from 'next/router'
 import Images from 'next/image'
 import triangles from '../../../public/images/Triangles.gif'
 import useAuth from '../../data/hook/useAuth'
